@@ -22,7 +22,7 @@ Bom, é isso. Espero que gostem...
 💻 Termux
 $ pkg upgrade -y && pkg update -y
 $ pkg install git python figlet -y
-$ git clone https://github.com/drmidnightytb/spam-report
+$ git clone https://github.com/MidD3Vil/spam-report
 $ cd spam-report
 $ python3 main.py
 
